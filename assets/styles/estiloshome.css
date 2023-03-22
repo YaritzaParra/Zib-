@@ -1,0 +1,20 @@
+.banner{
+    background-image: url("../img/pin.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding: 15%;
+    background-attachment: fixed;   
+}
+
+.menu{
+    background-color: #f58aa0;
+   font-family: cursive;
+   font-style: italic;
+   font-size: larger;
+}
+.container{
+    margin-bottom: 5%;
+    font-family: cursive;
+    font-style: italic;
+    font-size: larger;
+}
